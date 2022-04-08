@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNet_API", "MasterNet_API\MasterNet_API.csproj", "{F605CF4B-2466-4DB4-9010-FA7BDFB215BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F605CF4B-2466-4DB4-9010-FA7BDFB215BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F605CF4B-2466-4DB4-9010-FA7BDFB215BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F605CF4B-2466-4DB4-9010-FA7BDFB215BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F605CF4B-2466-4DB4-9010-FA7BDFB215BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A438E963-D246-4BB6-BC3F-5A6BEC96437A}
+	EndGlobalSection
+EndGlobal
